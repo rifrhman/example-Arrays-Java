@@ -85,25 +85,3 @@ public class MoreArr {
         System.out.println("Array : " + Arrays.toString(prinArr));
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

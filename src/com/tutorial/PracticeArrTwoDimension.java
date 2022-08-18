@@ -108,24 +108,3 @@ public class PracticeArrTwoDimension {
         multipleTwoArraysD(matrixC, matrixD);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
